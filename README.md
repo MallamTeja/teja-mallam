@@ -1,7 +1,7 @@
 # Teja Mallam
 
 ### 🎓 Undergrad at MLR Institute of Technology  
-🎯 Aspiring Software Developer Full Stack Enthusiast | 📊 Prompt Engineering Advocate  
+🎯 Aspiring Full Stack developer
 
 ---
 
